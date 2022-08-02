@@ -1,0 +1,29 @@
+body{
+    background-color:darkgrey;
+}
+.first{
+    width: 450px;
+    height: 250px;
+    background-color: #1B8767;
+    margin-top: 225px;
+    margin-left: 535px;
+    border-radius: 60px 0px 60px 0px;
+}
+.second{
+    width: 470px;
+    height: 250px;
+    background-color: #87431B;
+    margin-top: -325px;
+    margin-left: 520px;
+    position: absolute;
+    left: 13px;
+    top:  550px;
+    z-index: -1;
+    border-radius: 60px 0px 60px 0px;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 100px;
+   padding: 60px;
+}
